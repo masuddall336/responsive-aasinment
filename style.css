@@ -1,0 +1,124 @@
+body{
+    margin-bottom: 50px;
+    font-family: 'Bebas Neue', cursive;
+}
+.left-content p{
+    color:#757575;
+}
+.content-head{
+    color:#FA804C;
+}
+.left-content button{
+    padding: 7px 20px;
+    border: none;
+    border-radius: 10PX;
+}
+.left-content  button a{
+    color:#fff;
+    text-decoration:none;
+}
+.carousel-item{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+/* .card-img-top{
+    height: 250px;
+    width: 250px;
+    align-items:center;
+} */
+.right-f button a{
+    color:#fff;
+    text-decoration:none;
+}
+.right-f button{
+    padding: 7px 20px;
+    border: none;
+    border-radius: 10PX;
+}
+.left-f p{
+    font-size: 2em;
+    font-weight: bold;
+    color:#DCB510;
+margin-bottom: 0em;
+}
+.card-body h5{
+    color:#363958;
+    font-weight: bold;
+}
+.card-body  p{
+    COLOR:#3E3E3E;
+}
+.card img{
+    padding:20px;
+    background-color:#F1F1F1;
+    border-radius: 10px;
+}
+.card{
+    border:none;
+}
+.card-footer{
+    border:none;
+}
+.j-head h2{
+    font-weight: bold;
+    color:#363958;
+    margin-bottom:30px;
+    margin-top:75px;
+}
+.card-footer{
+    background-color: #FFFFFF;
+}
+.right-side img{
+    width: 100%;
+}
+.single-part{
+    border-radius: 10px;
+    box-shadow: 2px 8px 16px #ddcdcd;
+    padding:5px;
+}
+.single-part img{
+    width: 75px;
+    /* margin-right:  20px; */
+}
+.about-service{
+    margin-top: 120px;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color:rgb(172, 161, 161);
+}
+.link-head h2{
+    color:#f8e7e7;
+}
+.middle-footer button{
+    padding: 10px 30px;
+    border: none;
+    border-radius: 25px;
+    background-color :#FC384C;
+    color:#fff;
+}
+.fac{
+    font-size: 2em;
+    color:#3D5B97;
+}
+.twi{
+    font-size: 2em;
+    color:#59ADED;
+}
+.goo{
+    font-size: 2em;
+    color:#DB4C3E;
+}
+.last-footer i{
+    margin-right:5px;
+}
+
+.all-link{
+    padding-left: 0em;
+}
+.ft{
+    color:rgb(102, 85, 85);
+}
